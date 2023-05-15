@@ -1,0 +1,2 @@
+# python_design_pattern
+デザインパターンをPythonで勉強する
